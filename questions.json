@@ -1,0 +1,223 @@
+{
+  "heading": "G8_How To Use Adjectives vs Adverbs",
+  "topics": [
+    {
+      "heading": " How To Use Adjectives vs Adverbs",
+      "questions": [
+
+
+ 
+  {
+    "questionNo": 1,
+    "question": [
+      "Choose the best option to complete the sentence correctly.",
+      "<br><b><i>The musician played the piece so ___ that even the critics sat in stunned silence.</i></b>"
+    ],
+    "options": [
+      { "text": "passionate" },
+      { "text": "passionately" },
+      { "text": "passion" },
+      { "text": "passionless" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Identify whether the underlined word is an adjective or an adverb.",
+      "<br><b><i>They were <u>slow</u> as they carefully went through the dense fog.</i></b>"
+    ],
+    "options": [
+      { "text": "Adjective" },
+      { "text": "Adverb" },
+      { "text": "Both" },
+      { "text": "None" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Which sentence uses an adverb where an adjective should be used?"
+    ],
+    "options": [
+      { "text": "The food tasted delicious." },
+      { "text": "He became quickly frustrated with the delay." },
+      { "text": "She looks tired after the journey." },
+      { "text": "The room smelled fresh after the cleaning." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "Choose the word that best completes the sentence.",
+      "<br><b><i>The storm grew ___ as it moved toward the coastline.</i></b>"
+    ],
+    "options": [
+      { "text": "intensity" },
+      { "text": "intensely" },
+      { "text": "intense" },
+      { "text": "intensify" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Which sentence is grammatically correct and uses the adjective/adverb correctly?"
+    ],
+    "options": [
+      { "text": "She spoke soft to avoid waking the baby." },
+      { "text": "He felt nervously before entering the stage." },
+      { "text": "The lake looked still under the moonlight." },
+      { "text": "They sound loudly when excited." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "Choose the correct word to complete the sentence.",
+      "<br><b><i>The journalist wrote so ___ that even complex issues became understandable to the average reader.</i></b>"
+    ],
+    "options": [
+      { "text": "clearly" },
+      { "text": "clarity" },
+      { "text": "clear" },
+      { "text": "clearing" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "Identify the underlined word:",
+      "<br><b><i>The children sat <u>quietly</u> as the teacher entered the room.</i></b>"
+    ],
+    "options": [
+      { "text": "Adjective" },
+      { "text": "Adverb" },
+      { "text": "Noun" },
+      { "text": "Pronoun" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "Which sentence uses an adjective <u>incorrectly</u> in place of an adverb?"
+    ],
+    "options": [
+      { "text": "She looked calm despite the chaos." },
+      { "text": "He worked efficient during the crisis." },
+      { "text": "The water feels cold today." },
+      { "text": "That dog smells awful after the rain." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Choose the word that best fits the sentence <u>meaningfully and grammatically.</u>",
+      "<br><b><i>The coach spoke ___ to motivate the losing team.</i></b>"
+    ],
+    "options": [
+      { "text": "inspiration" },
+      { "text": "inspiring" },
+      { "text": "inspired" },
+      { "text": "inspiringly" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "Which sentence contains correct usage of an adverb/adjective?"
+    ],
+    "options": [
+      { "text": "The soup smells <u><i>delicious</i></u> as it simmers." },
+      { "text": "The flowers smell <u><i>fragrantly</i></u> in the morning." },
+      { "text": "The fabric feels <u><i>smoothly</i></u> on the skin." },
+      { "text": "The cake tastes <u><i>sweetly</i></u> with every bite." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Choose the correct option to complete the sentence.",
+      "<br><b><i>The director was ___ upset by the actor’s repeated mistakes during the shoot.</i></b>"
+    ],
+    "options": [
+      { "text": "visible" },
+      { "text": "visibly" },
+      { "text": "visibility" },
+      { "text": "visual" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "Identify the underlined word:",
+      "<br><b><i>He arrived <u>late</u> to the ceremony and missed the opening speech.</i></b>"
+    ],
+    "options": [
+      { "text": "Adjective" },
+      { "text": "Adverb" },
+      { "text": "Verb" },
+      { "text": "Noun" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "Which of the following sentences contains incorrect usage of an adverb in place of an adjective?"
+    ],
+    "options": [
+      { "text": "The landscape looks beautifully at sunset." },
+      { "text": "The air feels chilly in the morning." },
+      { "text": "The engine sounds rough after starting." },
+      { "text": "Her voice seems tired from overuse." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "Choose the word that best completes the sentence.",
+      "<br><b><i>The rescue team worked ___ to locate the missing hikers before nightfall.</i></b>"
+    ],
+    "options": [
+      { "text": "determined" },
+      { "text": "determination" },
+      { "text": "determinedly" },
+      { "text": "determine" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "Which sentence is grammatically correct and uses the adverb/adjective appropriately?"
+    ],
+    "options": [
+      { "text": "She sounded angrily when discussing the issue." },
+      { "text": "He acted strange after receiving the news." },
+      { "text": "They remained hopeful despite the odds." },
+      { "text": "The team played skillful throughout the game." }
+    ],
+    "answer": 2
+  }
+
+
+]
+
+
+
+
+    }
+  ]
+}
